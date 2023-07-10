@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".ui.about.SlideshowFragment">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+    <TextView
+        android:id="@+id/textView27"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Why Eco-Friendly Products "
+        android:layout_marginTop="20dp"
+        android:layout_marginStart="20dp"
+        android:textSize="30dp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bomboo Toothbrush"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="20dp"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginEnd="10dp"
+        android:text="Switching to a bamboo toothbrush help save the environment, especially the oceans, from being destroyed. Using a bamboo toothbrush is as effective as a manual plastic toothbrush. The difference is that handle is made from bamboo which is strong, biodegradable and has no negative impact on the planet. "/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"
+        android:text="Think about this: it’s recommended that you change your toothbrush every 3 months; doing this for a year implies that you'd use four in a year. Now let's be conservative and assume that every Australian uses 2 plastic toothbrushes in any given year; that's a whooping 50 million pieces of plastic handles to deal with annually. Imagine the overall impact this would have in 10, 50 or 100 years. The plastic toothbrush you use today will last for a few generations. Be the change and use a biodegradable bamboo toothbrush. Alternatively buy a toothbrush subscription plan and get them delivered to your door monthly, bimonthly or quarterly.."/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bamboo Toothbrush Is Eco-Friendly"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:layout_marginStart="20dp"
+        android:layout_marginTop="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Based on current trends, the possibility of some of plastic waste ending up in the ocean, and endangering marine life, is high. Every time you toss a used plastic toothbrush into the bin, there's a chance of it being swallowed by an albatross, a whale, a dugong, a penguin or a sea lion. Using a bamboo toothbrush is an eco-friendly alternative that you should consider for the sake of the planet. You can compost your bamboo toothbrush handle it will degrade naturally. Alternatively, the handle can be recycled or reused. "
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:text="Paper Pens"
+        android:textStyle="bold"
+        android:textSize="30dp"
+        android:layout_marginTop="10dp"
+        android:layout_marginEnd="10dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:text="Paper Pens That Not Only Reduce Plastic Waste But Also Have Seeds That Grow into Trees!"
+        android:layout_marginTop="10dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:layout_marginEnd="15dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="10dp"
+        android:text="These paper pens, a great alternative to plastic ballpoint pens, don’t just address the plastic menace but also contain seeds that can grow into trees.  The seemingly innocuous ballpoint pens – we lose them more than we use them! We trash them instead of bothering to buy new refills. Do we even realize that these millions of small writing instruments sold daily are made of plastic and contribute to the degradation of the environment?
+
+Unlike most of us, Lakshmi Menon, an obsessed eco-evangelist, is extremely aware of this problem. A designer by profession, she runs an organization in south Kerala that is dedicated to finding sustainable livelihood solutions, called Pure Living.
+
+Lakshmi has combined her design skills with love for the environment and crafted pens made from waste paper. At the bottom of each pen, she has buried a seed of a tree."
+        android:layout_marginEnd="10dp"/>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="15dp"
+        android:layout_marginTop="15dp"
+
+        android:text=" for more information :
+        https://www.thebetterindia.com/59762/paper-pens-reduce-plastic-waste-ballpoint-seeds-grow-trees-entree-lakshmi-menon/"/>
+
+
+    </LinearLayout>
+
+</ScrollView>
